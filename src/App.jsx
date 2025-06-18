@@ -8,7 +8,6 @@ function App() {
   return (
     <div className='app-container'>
       <NavBar />
-      <h1>NeonLed</h1>
       <h2>{saludo}</h2>
       <img src="" alt="" />
     </div>
