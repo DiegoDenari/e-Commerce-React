@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #c75eee;
+}
+  
+.neonlogo {
+  height: 100px;
+  width: 100px;
+}
+
+.categories {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  align-items: center;
+}
+
+.CartWidget {
+  display: flex;
+  align-items: center;
+}
